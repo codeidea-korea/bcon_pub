@@ -1,0 +1,12 @@
+<svg width="417" height="120" viewBox="0 0 417 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.5" y="0.5" width="119" height="119" stroke="white"/>
+<path d="M1 119L41 79" stroke="white"/>
+<rect x="149.5" y="0.5" width="119" height="119" stroke="white"/>
+<path d="M149 119L189 79" stroke="white"/>
+<path d="M189 1L189 79" stroke="white"/>
+<rect x="297.5" y="0.5" width="119" height="119" stroke="white"/>
+<path d="M297 119L337 79" stroke="white"/>
+<path d="M337 1L337 79" stroke="white"/>
+<path d="M337 79H416.5" stroke="white"/>
+<rect x="337" width="80" height="79" fill="white"/>
+</svg>
