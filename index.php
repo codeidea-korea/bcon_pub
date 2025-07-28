@@ -424,6 +424,11 @@ include_once('_header.php');
     //     }
     // });
 
+    $('.main_visual .scroll_btn').on('click',function(){
+        let con1 = $('.main_con01').offset().top;
+        $('body,html').animate({scrollTop:con1},800)
+    })
+
 
 </script>
 
