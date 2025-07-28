@@ -4,3 +4,10 @@ const menuToggle = ()=>{
     $('header .right_menu').toggleClass('show')
 }
 
+$(window).on('load',function(){
+    AOS.init({
+        duration:600,
+        disable: false,
+        once: true,
+    });
+})

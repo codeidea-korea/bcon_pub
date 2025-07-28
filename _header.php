@@ -13,12 +13,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/font.css" />
     <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/aos.css" />
     <link rel="stylesheet" href="./css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="./css/style.css" />
 
     <!-- js -->
     <script src="./js/jquery-1.12.4.min.js"></script>
     <script src="./js/swiper-bundle.min.js"></script>
+    <script src="./js/aos.js"></script>
     <script src="./js/common.js"></script>
 
 </head>
@@ -28,11 +30,11 @@
             <h1><a href="./index.php"><img src="./img/logo.svg" alt="(주)비컨종합건설"></a></h1>
             <div class="right_menu">
                 <ul class="gnb cabin">
-                    <li><a href="javascript:;">ABOUT US</a></li>
-                    <li><a href="javascript:;">SERVICES</a></li>
-                    <li><a href="javascript:;">NEWS</a></li>
-                    <li><a href="javascript:;">WORKS</a></li>
-                    <li><a href="javascript:;">CONTACT</a></li>
+                    <li><a href="./aboutus.php">ABOUT US</a></li>
+                    <li><a href="./service.php">SERVICES</a></li>
+                    <li><a href="./news.php">NEWS</a></li>
+                    <li><a href="./work.php">WORKS</a></li>
+                    <li><a href="./contact.php">CONTACT</a></li>
                 </ul>
                 <div class="sns">
                     <a href="javascript:;"><img src="./img/common/insta.svg" alt="인스타그램"></a>

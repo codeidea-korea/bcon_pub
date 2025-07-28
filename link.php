@@ -68,7 +68,18 @@ echo txtRecord('./@record/');
 <div id="publishingContainer">
 
 	<ul class="page-link" style="width:100%;margin-bottom:-50px">
-        <!-- <li><a href="./index.php" target="_blank" class="">메인</a></li> -->
+        <li><a href="./index.php" target="_blank" class="">메인</a></li>
+        <li><a href="./aboutus.php" target="_blank" class="">ABOUT US</a></li>
+        <li><a href="./service.php" target="_blank" class="">SERVICES</a></li>
+        <li>
+			<a href="./news.php" target="_blank" class="">NEWS</a>
+			<a href="./news_detail.php" target="_blank" class="">NEWS - detail</a>
+		</li>
+		 <li>
+			<a href="./work.php" target="_blank" class="">WORKS</a>
+			<a href="./work_detail.php" target="_blank" class="">WORKS - detail</a>
+		</li>
+        <li><a href="./contact.php" target="_blank" class="">CONTACT</a></li>
 
 		<!-- 
 		<li>
