@@ -473,6 +473,7 @@ footer .address .info p {font-size:14px; color:#7f7f7f; font-weight:300; }
 .work_detail .info_box .info dl dd p span {color:#7f7f7f; font-weight:100; }
 .work_detail .info_box .info dl dd a {display:flex; align-items:center; gap:3px; font-size:16px; color:#6fb8e6; font-weight:300; }
 .work_detail .info_box .info dl dd a:before {content:''; width:20px; height:20px; background:url('../img/common/link.svg') no-repeat center center; }
+.work_detail .info_box .info dl dd i {display:block; margin-top:5px; font-size:14px; font-style:normal; }
 .work_detail .info_box.mo {display:none; }
 
 @media all and (max-width:767px){
