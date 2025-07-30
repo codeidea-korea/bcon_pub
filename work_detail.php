@@ -43,7 +43,7 @@ include_once('_header.php');
                     </dl>
                     <dl>
                         <dt>설계</dt>
-                        <dd><a href="javascript:;">실건축사무소</a></dd>
+                        <dd><a href="javascript:;">실건축사무소</a> <i>*(구)에이엘엘종합건설에서 건축된 것임.</i></dd>
                     </dl>
                     <dl>
                         <dt>사진</dt>
