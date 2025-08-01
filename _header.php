@@ -38,8 +38,7 @@
                 </ul>
                 <div class="sns">
                     <a href="javascript:;"><img src="./img/common/insta.svg" alt="인스타그램"></a>
-                    <a href="javascript:;"><img src="./img/common/facebook.svg" alt="페이스북"></a>
-                    <a href="javascript:;"><img src="./img/common/blog.svg" alt="블로그"></a>
+                    <a href="javascript:;" class="band">BAND</a>
                 </div>
             </div>
             <button class="ham_btn" onclick="menuToggle()"><img src="./img/common/ham_btn.svg" alt=""></button>

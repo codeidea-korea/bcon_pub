@@ -7,8 +7,8 @@ include_once('_header.php');
     <div class="inner">
         <div class="txt_box">
             <img src="./img/main/main_logo.svg" data-aos="fade-up" alt="">
-            <p class="txt" data-aos="fade-up" data-aos-delay="100">정직과 신뢰를 바탕으로한<br class="mo_only"/> 명품 디자인의 완성</p>
-            <p class="desc" data-aos="fade-up" data-aos-delay="200">We build all the kind of architecture<br class="mo_only"/> with honest and trust, <br/>B.CON <br class="mo_only"/>Construction</p>
+            <p class="txt" data-aos="fade-up" data-aos-delay="100">바다 위의 등대처럼,<br class="mo_only"/> 건설의 방향성을 제시합니다.</p>
+            <p class="desc" data-aos="fade-up" data-aos-delay="200">Like a BEACON on the sea,<br class="mo_only"/> we guide the way in construction.<br class="mo_only"/><br/>B.CON CONSTRUCTION</p>
         </div>
         <div>
             <button class="scroll_btn" data-aos="fade-up" data-aos-delay="300">Scroll Down</button>
@@ -257,11 +257,13 @@ include_once('_header.php');
                 <a href="javascript:;" class="btn btn-white"><i></i></a>
             </div>
             <div data-aos="fade-left">
-                <p>정직과 신뢰를 바탕으로 명품 건축을 완성하는 비컨종합건설</p>
-                <span>At B.CON Construction,<br/>we craft premium architecture founded on honesty and trust.</span>
-
-                <img src="./img/main/main02_img.svg" alt="">
-
+                <p>신뢰를 바탕으로 건설 전 분야를 연결하는 비컨종합건설</p>
+                <span>B.CON : Connecting all fields of construction, built on confidence</span>
+                <div class="txt">
+                    <b>B</b>e <b>CON</b>fidence<br/>
+                    <b>B</b>e <b>CON</b>nected<br/>
+                    <b>B</b>e <b>CON</b>struction
+                </div>
                 <a href="javascript:;" class="btn btn-white">ABOUT <i></i></a>
             </div>
         </div>
@@ -369,8 +371,8 @@ include_once('_header.php');
                 <a href="javascript:;" class="btn btn-gray">CONTACT US <i></i></a>
             </div>
             <div data-aos="fade-left">
-                <p>경험과 기술력을 바탕으로, 최적의 솔루션을 제안하는 B.CON종합건설과 함께하세요.<br/>단순한 시공을 넘어, 고객의 니즈와 상황을 깊이 이해하고  합리적인 대안을 함께 고민합니다.</p>
-                <span>Join B.CON Construction, where experience and technical expertise come together to deliver optimal solutions.<br/>We go beyond construction — we take the time to deeply understand each client’s needs and circumstances,<br/>and work together to find practical and effective solutions.</span>
+                <p>경험과 기술력을 바탕으로, 최적의 솔루션을 제안하는 비컨종합건설과 함께하세요. 단순한 시공을 넘어, 고객의 니즈와 상황을 깊이 이해하고  합리적인 대안을 함께 고민합니다.</p>
+                <span>Join B.CON Construction, where experience and technical expertise come together to deliver optimal solutions.<br/> We go beyond construction — we take the time to deeply understand each client’s needs and circumstances,<br/> and work together to find practical and effective solutions.</span>
             </div>
         </div>
     </div>
