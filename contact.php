@@ -17,29 +17,9 @@ include_once('_header.php');
         </div>
     </div>
 
-    <!-- * 카카오맵 - 지도퍼가기 -->
-    <!-- 1. 지도 노드 -->
-    <div id="daumRoughmapContainer1753688837671" class="root_daum_roughmap root_daum_roughmap_landing" data-aos="fade-up" data-aos-delay="300"></div>
+    <script type="text/javascript" src="https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=5h5146dt0k"></script>
 
-    <!--
-        2. 설치 스크립트
-        * 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
-    -->
-    <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-
-    <!-- 3. 실행 스크립트 -->
-    <script charset="UTF-8">
-        new daum.roughmap.Lander({
-            "timestamp" : "1753688837671",
-            "key" : "6edfjq7jtm8",
-            "mapWidth" : "1708",
-            "mapHeight" : "702"
-        }).render();
-    </script>
-    
-
-    <!-- <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=nqm2q8vabi"></script>
-    <div id="map" class="fade-in-up" style="height:60vh;overflow: visible;"></div> -->
+    <div id="map" class="fade-in-up" style="height:60vh;overflow: visible;"></div>
 
 </div>
 
@@ -47,39 +27,39 @@ include_once('_header.php');
 
 <script>
     // 네이버지도
-    // var HOME_PATH = window.HOME_PATH || '.';
-    // var position = new naver.maps.LatLng(37.512635, 127.027836);
-    // var mapOptions = {
-    //     center: new naver.maps.LatLng(37.512635, 127.027836),
-    //     zoom: 16
-    // };
+    var HOME_PATH = window.HOME_PATH || '.';
+    var position = new naver.maps.LatLng(37.512635, 127.027836);
+    var mapOptions = {
+        center: new naver.maps.LatLng(37.512635, 127.027836),
+        zoom: 16
+    };
 
 
-    // var map = new naver.maps.Map('map', mapOptions);
-    // map.setOptions({ //지도 인터랙션 끄기
-    //             draggable: true,
-    //             pinchZoom: true,
-    //             scrollWheel: false,
-    //             keyboardShortcuts: false,
-    //             disableDoubleTapZoom: true,
-    //             disableDoubleClickZoom: true,
-    //             disableTwoFingerTapZoom: true
-    //         });
+    var map = new naver.maps.Map('map', mapOptions);
+    map.setOptions({ //지도 인터랙션 끄기
+                draggable: true,
+                pinchZoom: true,
+                scrollWheel: false,
+                keyboardShortcuts: false,
+                disableDoubleTapZoom: true,
+                disableDoubleClickZoom: true,
+                disableTwoFingerTapZoom: true
+            });
 
 
 
-    // var markerOptions = {
-    //     position: position.destinationPoint(90, 15),
-    //     map: map,
-    //     icon: {
-    //         url: './img/common/maker.svg',
-    //         size: new naver.maps.Size(62, 111),
-    //         origin: new naver.maps.Point(0, 0),
-    //         anchor: new naver.maps.Point(60, 80)
-    //     }
-    // };
+    var markerOptions = {
+        position: position.destinationPoint(90, 15),
+        map: map,
+        icon: {
+            url: './img/common/maker.svg',
+            size: new naver.maps.Size(70, 84),
+            origin: new naver.maps.Point(0, 0),
+            anchor: new naver.maps.Point(40,80)
+        }
+    };
 
-    // var marker = new naver.maps.Marker(markerOptions);
+    var marker = new naver.maps.Marker(markerOptions);
 </script>
 
 <?php
