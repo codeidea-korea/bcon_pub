@@ -175,9 +175,10 @@ footer .address .info p {font-size:14px; color:#7f7f7f; font-weight:300; }
 .main_con02 .main_tit h3 {color:#fff; }
 .main_con02 .main_tit p,
 .main_con02 .main_tit span {color:#fff; }
+.main_con02 .main_tit span {margin-top:10px; }
 .main_con02 .main_tit img {display:block; margin-top:50px; margin-bottom:70px; }
 .main_con02 .main_tit > div:not(.tit) .btn-white {width:217px; }
-.main_con02 .main_tit .txt {margin:50px 0; font-size:30px; line-height:1.6; color:#f9f9f9; }
+.main_con02 .main_tit .txt {margin:50px 0; font-size:30px; font-weight:100; line-height:1.6; color:#f9f9f9; }
 .main_con02 .main_tit .txt b {font-weight:600; color:#fff; }
 
 @media all and (max-width:767px){
