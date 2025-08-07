@@ -54,7 +54,7 @@ include_once('_header.php');
 <div class="about_con03">
     <div class="inner">
         <div class="sub_tit">
-            <h3 data-aos="fade-right">CONTRACT ACHIEVEMENMTS</h3>
+            <h3 data-aos="fade-right">CONTRACT ACHIVEMENTS</h3>
             <div class="txt">
                 <h4 data-aos="fade-right">신뢰는 실적으로 증명합니다</h4>
                 <div data-aos="fade-left">
@@ -173,7 +173,7 @@ include_once('_header.php');
                 <dl data-aos="fade-left" data-aos-delay="100">
                     <dt>경력사항</dt>
                     <dd>
-                        <p><span>2025. 05 ~ | </span>비컨종합건설(주)</p>
+                        <p><span>2025. 05 ~ | </span>(주)비컨종합건설</p>
                         <p><span>2020. 01 ~ | </span>실건축사사무소㈜, ㈜에이엘엘종합건설</p>
                         <p><span>2019.03 | </span>한양대학교 겸임교수</p>
                         <p><span>2019.03 ~ 2019.12 | </span>실건축㈜ 대표이사</p>
