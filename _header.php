@@ -37,8 +37,8 @@
                     <li><a href="./contact.php">CONTACT</a></li>
                 </ul>
                 <div class="sns">
-                    <a href="javascript:;"><img src="./img/common/insta.svg" alt="인스타그램"></a>
-                    <a href="javascript:;" class="band">BAND</a>
+                    <a href="https://www.instagram.com/b.con_construction/" target="_blank"><img src="./img/common/insta.svg" alt="인스타그램"></a>
+                    <!-- <a href="javascript:;" class="band">BAND</a> -->
                 </div>
             </div>
             <button class="ham_btn" onclick="menuToggle()"><img src="./img/common/ham_btn.svg" alt=""></button>
