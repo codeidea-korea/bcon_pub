@@ -442,7 +442,7 @@ footer .address .info p {font-size:14px; color:#7f7f7f; font-weight:300; }
 .work_con01 .work_list ul li .img_box {overflow:hidden; position:relative; }
 .work_con01 .work_list ul li .img_box .tag {z-index:5; position:absolute; left:0; top:0; padding:20px; display:flex; align-items:center; gap:5px; flex-wrap:wrap; }
 .work_con01 .work_list ul li .img_box .tag span {padding:6px 15px; font-size:16px; color:var(--color-white); font-weight:300; background-color:var(--color-primary); }
-.work_con01 .work_list ul li .img_box > img {display:block; width:100%; transition:all 0.5s; }
+.work_con01 .work_list ul li .img_box > img {display:block; width:100%; transition:all 0.5s; height:329.5px;}
 .work_con01 .work_list ul li:hover .img_box > img {transform:scale(1.1); }
 .work_con01 .work_list ul li .txt_box {margin-top:15px; }
 .work_con01 .work_list ul li .txt_box .tit {font-size:18px; color:#1f1f1f; font-weight:200; }
@@ -457,6 +457,7 @@ footer .address .info p {font-size:14px; color:#7f7f7f; font-weight:300; }
     .work_con01 .work_list ul {grid-template-columns:repeat(2,1fr); gap:30px 16px; }
     .work_con01 .work_list ul li .img_box .tag {padding:10px; }
     .work_con01 .work_list ul li .img_box .tag span {font-size:15px; }
+	.work_con01 .work_list ul li .img_box > img {height:195px;}
     .work_con01 .work_list ul li .txt_box {margin-top:8px; }
     .work_con01 .work_list ul li .txt_box .tit {font-size:16px; }
 }
