@@ -173,13 +173,14 @@ include_once('_header.php');
                 <dl data-aos="fade-left" data-aos-delay="100">
                     <dt>경력사항</dt>
                     <dd>
-                        <p><span>2025. 05 ~ | </span>(주)비컨종합건설</p>
-                        <p><span>2020. 01 ~ | </span>실건축사사무소㈜, ㈜에이엘엘종합건설</p>
-                        <p><span>2019.03 | </span>한양대학교 겸임교수</p>
+                        <p><span>2025. 03 ~ | </span>(주)비컨종합건설 대표이사</p>
+                        <p><span>2020. 01 ~ | </span>(주)에이엘엘종합건설 대표이사</p>
+                        <p><span>2019. 01 ~ | </span>실건축사사무소(주) 대표이사</p>
+                        <p><span>2019. 03 ~ | </span>한양대학교 겸임교수</p>
                         <p><span>2019.03 ~ 2019.12 | </span>실건축㈜ 대표이사</p>
-                        <p><span>2015.09 ~ 2019.03 | </span>㈜해안 종합건축사무소 (팀장)</p>
-                        <p><span>2010.01 ~ 2015.07 | </span>NBBJ in Los Angeles, USA (Architecture Design)</p>
-                        <p><span>2009.05 ~ 2009.10  | </span>Morris and Sato Studio in New York, U.S.A</p>
+                        <p><span>2015. 09 ~ 2019. 03 | </span>(주)해안 종합건축사사무소 팀장</p>
+                        <p><span>2010. 01 ~ 2015. 07 | </span>NBBJ in Los Angeles, USA (Architecture Design)</p>
+                        <p><span>2009. 05 ~ 2009. 10  |  </span>Morris and Sato Studio in New York, USA</p>
                     </dd>
                 </dl>
             </div>
