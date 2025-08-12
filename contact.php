@@ -11,7 +11,7 @@ include_once('_header.php');
                 <h4 data-aos="fade-right" data-aos-delay="100">전문가의 깊이 있는 노하우</h4>
                 <div class="desc" data-aos="fade-left" data-aos-delay="200">
                     <p>경험과 기술력을 바탕으로, 최적의 솔루션을 제안하는 비컨종합건설과 함께하세요. <br/>단순한 시공을 넘어, 고객의 니즈와 상황을 깊이 이해하고  합리적인 대안을 함께 고민합니다.</p>
-                    <span>Join B.CON Construction, where experience and technical expertise come together to deliver optimal solutions.<br/> We go beyond construction — we take the time to deeply understand each client’s needs and circumstances,<br/>and work together to find practical and effective solutions.</span>
+                    <span>Join B.Con Construction, where expertise and innovation come together to deliver optimal results. We go beyond building—we take the time to understand each client’s needs and circumstances, collaborating to create practical, effective solutions. </span>
                 </div>
             </div>
         </div>

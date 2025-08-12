@@ -10,7 +10,7 @@ include_once('_header.php');
                 <h4 data-aos="fade-right" data-aos-delay="100">당신의 생각이 공간이 되는 순간</h4>
                 <div class="desc" data-aos="fade-left" data-aos-delay="200">
                     <p>설계, 시공, 금융 등 각 분야의 전문가 집단으로 이루어진 비컨종합건설에서는 고객의 자산가치 증대를 최고의 가치로 삼아 전 과정에 걸쳐 프로젝트 매니저로서의 전문가적인 노하우를 고객에게 제공합니다.<br/><br/>사업계획부터 시공 사후관리까지.<br/> 모든 것을 비컨종합건설과 함께 하시기 바랍니다.</p>
-                    <span>B.CON is a team of experts in design, construction, and finance, dedicated to maximizing the value of your assets. We act as professional project managers throughout every stage of the process, delivering expertise you can trust.<br/><br/>From business planning to post-construction management — Experience the full journey with B.CON by your side.</span>
+                    <span>B.Con Construction is a team of design, construction, and finance specialists dedicated to maximize the value of your assets.<br/> As professional project managers, we guide you through every stage--from business planning to post-construction--<br/>delivering trusted expertise and seamless results. With B.Con by your side, experience the entire journey with confidence. </span>
                 </div>
             </div>
         </div>
@@ -23,10 +23,10 @@ include_once('_header.php');
         <div class="sub_tit">
             <h3 data-aos="fade-right">HISTORY</h3>
             <div class="txt">
-                <h4 data-aos="fade-right">건축으로 증명한 비컨의 여정</h4>
+                <h4 data-aos="fade-right">건축으로 증명한 (구)에이엘엘에서의<br/> 수상을 비컨의 여정으로 승화</h4>
                 <div data-aos="fade-left">
                     <dl>
-                        <dt class="cabin">2025.07</dt>
+                        <dt class="cabin">2025.09</dt>
                         <dd>제14회 강남구 아름다운건축물 우수상 수상 “GLACIA”</dd>
                     </dl>
                     <dl>
@@ -42,7 +42,7 @@ include_once('_header.php');
                         <dd>제12회 강남구 아름다운건축물 아름다운건축상 수상 “삼원가든”</dd>
                     </dl>
                     <dl>
-                        <dt class="cabin">2023.10</dt>
+                        <dt class="cabin">2022.09</dt>
                         <dd>제11회 강남구 아름다운건축물 장려상 수상 “PLUTO”</dd>
                     </dl>
                 </div>
@@ -156,7 +156,7 @@ include_once('_header.php');
                 <h4 data-aos="fade-right">공간을 만드는 사람들</h4>
                 <div class="desc" data-aos="fade-left">
                     <p>전문가의 노하우로 <br/>고객의 소중한 공간에 책임을 더합니다.</p>
-                    <span>With expert know-how, we bring responsibility and care to every space our clients entrust to us.</span>
+                    <span>With proven expertise, we approach every space entrusted to us with responsibility and care. </span>
                 </div>
             </div>
         </div>

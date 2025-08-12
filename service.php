@@ -10,7 +10,7 @@ include_once('_header.php');
                 <h4 data-aos="fade-right" data-aos-delay="100">사업성 검토, 시공, 개발 등 <br/>각 분야의 전문가 집단 비컨종합건설</h4>
                 <div class="desc" data-aos="fade-left" data-aos-delay="200">
                     <p>비컨종합건설은 사업성 분석, 설계, 시공, 개발까지 <br/>프로젝트 전 단계에서 전문성과 실행력을 갖춘 팀이 함께합니다. <br/>각 분야의 전문가들이 모여 안정적이고 효율적인 사업 추진을 돕습니다.</p>
-                    <span>B.CON Construction provides expertise and execution across all stages of a project — from feasibility analysis to design, construction, and development. A team of specialists from each field works together to ensure stable and efficient project delivery.</span>
+                    <span>B.Con Construction delivers excellence and flawless execution at every stage—from feasibility analysis to design, construction, and development. Our integrated approach ensures every phase is managed with precision and efficiency. </span>
                 </div>
             </div>
         </div>

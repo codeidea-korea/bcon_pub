@@ -10,7 +10,7 @@ include_once('_header.php');
                 <h4 data-aos="fade-right" data-aos-delay="100">발전적인 건축문화를 위한 기술력을 바탕으로<br/>고객과 소통하여 신뢰를 쌓아갑니다.</h4>
                 <div class="desc" data-aos="fade-left" data-aos-delay="200">
                     <p>비컨종합건설은 기술력과 경험을 바탕으로, 더 나은 건축문화를 만들어갑니다.<br/>정직한 프로세스, 투명한 실행, 그리고 책임 있는 자세로, 고객의 비전을 현실로 구현합니다.</p>
-                    <span>B.CON Construction is committed to building a better architectural culture through technical expertise and experience. With honest processes, transparent execution, and a strong sense of responsibility, we bring our clients' visions to life.</span>
+                    <span>B.Con Construction is dedicated to advancing architectural culture through proven know-how and experience. With integrity, transparency, and a strong sense of responsibility, we realize our clients’ visions into reality. </span>
                 </div>
             </div>
         </div>
