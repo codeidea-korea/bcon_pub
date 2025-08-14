@@ -8,7 +8,7 @@ include_once('_header.php');
         <div class="txt_box">
             <img src="./img/main/main_logo.svg" data-aos="fade-up" alt="">
             <p class="txt" data-aos="fade-up" data-aos-delay="100">바다 위의 등대처럼,<br class="mo_only"/> 건설의 방향성을 제시합니다.</p>
-            <p class="desc" data-aos="fade-up" data-aos-delay="200">Like a BEACON at sea,<br class="mo_only"/> we guide the way in construction.<br class="mo_only"/><br/>B.CON CONSTRUCTION</p>
+            <p class="desc" data-aos="fade-up" data-aos-delay="200">Like a BEACON at sea, we guide the way in construction.<br/><br class="mo_only"/>B.CON CONSTRUCTION</p>
         </div>
         <div>
             <button class="scroll_btn" data-aos="fade-up" data-aos-delay="300">Scroll Down</button>
