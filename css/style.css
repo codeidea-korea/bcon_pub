@@ -311,7 +311,9 @@ footer .address .info p {font-size:14px; color:#7f7f7f; font-weight:300; }
 .about_con03 dl dd p {position:relative; padding-left:20px; font-size:20px; font-weight:100; color:#2e2e2e; }
 .about_con03 dl dd p + p {margin-top:8px; }
 .about_con03 dl dd p:before {content:''; position:absolute; left:0; top:8px; width:8px; height:8px; background-color:#222; }
-.about_con03 .achiev_list {overflow:hidden; height:260px; margin-bottom:70px; }
+.about_con03 .achiev_list h4 {padding-bottom:5px; margin-bottom:30px; border-bottom:1px solid #eee; font-size:20px; color:#9f9f9f; }
+.about_con03 .achiev_list dl + h4 {margin-top:50px; }
+.about_con03 .achiev_list {overflow:hidden; height:540px; margin-bottom:70px; }
 .about_con03 .achiev_list.all {height:auto; }
 .about_con03 .btn.hidden {display:none; }
 
@@ -324,7 +326,9 @@ footer .address .info p {font-size:14px; color:#7f7f7f; font-weight:300; }
     .about_con03 dl dd {margin-top:0; }
     .about_con03 dl dd p {padding-left:15px; font-size:16px; }
     .about_con03 dl dd p:before {top:5px; }
-    .about_con03 .achiev_list {height:130px; margin-bottom:60px; }
+    .about_con03 .achiev_list h4 {margin-bottom:20px; font-size:17px; }
+    .about_con03 .achiev_list dl + h4 {margin-top:30px; }
+    .about_con03 .achiev_list {height:310px; margin-bottom:50px; }
     .about_con03 .btn_box {text-align:center; }
 }
 

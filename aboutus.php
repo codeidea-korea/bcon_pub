@@ -59,6 +59,16 @@ include_once('_header.php');
                 <h4 data-aos="fade-right">신뢰는 실적으로 증명합니다</h4>
                 <div data-aos="fade-left">
                     <div class="achiev_list">
+                        <h4>비컨종합건설</h4>
+                        <dl>
+                            <dt class="cabin">2025</dt>
+                            <dd>
+                                <p>논현동 21*-**</p>
+                                <p>삼성동 2*-**</p>
+                            </dd>
+                        </dl>
+
+                        <h4>(구)에이엘엘종합건설</h4>
                         <dl>
                             <dt class="cabin">2025</dt>
                             <dd>
