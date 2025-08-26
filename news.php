@@ -11,7 +11,7 @@ include_once('_header.php');
                 <h4 data-aos="fade-right" data-aos-delay="100">건축의 흐름을 읽다</h4>
                 <div class="desc" data-aos="fade-left" data-aos-delay="200">
                     <p>시장 변화와 건축 트렌드, 그리고 비컨의 소식을 한눈에.<br/> 현장의 이야기부터 프로젝트 인사이트까지,<br/> 비컨종합건설이 전하는 깊이 있는 건축 뉴스와 관점을 만나보세요.</p>
-                    <span>Stay up to date with market shifts, architectural trends, and the latest news from Beacon General Construction.<br/> From on-site stories to project insights, explore in-depth perspectives and updates from the field.</span>
+                    <span>Stay informed on market shifts, architectural trends, and the latest news from B.Con Construction. From on-site accounts to project insights, discover fresh perspectives and updates from the field.</span>
                 </div>
             </div>
         </div>
