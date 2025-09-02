@@ -21,6 +21,7 @@ include_once('_header.php');
                 <ul>
                     <li><button onclick="selectClick(this)">Commercial</button></li>
                     <li><button onclick="selectClick(this)">Residential</button></li>
+                    <li><button onclick="selectClick(this)">Interior</button></li>
                 </ul>
             </div>
             <div class="select_box" data-aos="fade-up" data-aos-delay="100">
