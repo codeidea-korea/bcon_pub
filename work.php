@@ -40,7 +40,7 @@ include_once('_header.php');
                 <li><a href="./work_detail.php">
                     <div class="img_box">
                         <div class="tag">
-                            <span>2024</span>
+                            <span class="type01">2024</span>
                         </div>
                         <img src="./img/sub/work_img_1.png" alt="">
                     </div>
@@ -52,7 +52,7 @@ include_once('_header.php');
                 <li><a href="./work_detail.php">
                     <div class="img_box">
                         <div class="tag">
-                            <span>2024</span>
+                            <span class="type02">2024</span>
                         </div>
                         <img src="./img/sub/work_img_2.png" alt="">
                     </div>
@@ -64,7 +64,7 @@ include_once('_header.php');
                 <li><a href="./work_detail.php">
                     <div class="img_box">
                         <div class="tag">
-                            <span>2024</span>
+                            <span class="type03">2024</span>
                         </div>
                         <img src="./img/sub/work_img_3.png" alt="">
                     </div>

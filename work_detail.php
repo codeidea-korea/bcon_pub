@@ -49,6 +49,11 @@ include_once('_header.php');
             <div class="slide_box" data-aos="fade-left">
                 <ul class="swiper-wrapper">
                     <li class="swiper-slide"><img src="./img/sub/work_detail_1.png" alt=""></li>
+                    <li class="swiper-slide">
+                        <video playsinline muted controls>
+                            <source src="./img/sample_video.mp4" type="video/mp4" />
+                        </video>
+                    </li>
                     <li class="swiper-slide"><img src="./img/sub/work_detail_2.png" alt=""></li>
                     <li class="swiper-slide"><img src="./img/sub/work_detail_3.png" alt=""></li>
                     <li class="swiper-slide"><img src="./img/sub/work_detail_4.png" alt=""></li>
