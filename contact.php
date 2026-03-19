@@ -28,9 +28,9 @@ include_once('_header.php');
 <script>
     // 네이버지도
     var HOME_PATH = window.HOME_PATH || '.';
-    var position = new naver.maps.LatLng(37.512635, 127.027836);
+    var position = new naver.maps.LatLng(37.5147914, 127.0311467);
     var mapOptions = {
-        center: new naver.maps.LatLng(37.512635, 127.027836),
+        center: new naver.maps.LatLng(37.5147914, 127.0311467),
         zoom: 16
     };
 
